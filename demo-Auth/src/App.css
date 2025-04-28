@@ -1,0 +1,21 @@
+
+form{
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 50px;
+}
+input{
+    height: 40px;
+    width: 80%;
+    padding: 0px 10px;
+}
+#btn{
+
+    height: 40px;
+    width: 85%;
+    background-color: black;
+    color: white;
+    border: none;
+}
